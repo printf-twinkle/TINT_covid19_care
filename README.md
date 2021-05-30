@@ -7,15 +7,25 @@ A link for vaccine registration is given too.
 
 
 Backend:
+
 Python (Flask framework),
-Facebook Developers used to connect to fb group
+
+Facebook Developers used to connect to fb group,
+
 Google spreadsheets to take data from,
+
 MongoDB to store data in,
-Hosted on Heroku,
+
+Hosted on Heroku
+
 
 Frontend:
-Angular
-Html
-Css
+
+Angular,
+
+Html,
+
+Css,
+
 Javascript
 
