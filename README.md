@@ -1,3 +1,7 @@
+https://tint-covid19-care.herokuapp.com/
+Link for the website
+
+
 TINTCovid19Care is an initiative by the students of Techno International New Town.
 We work to verify leads we find from anywhere possible and post it on our various social media handles.
 
@@ -6,7 +10,7 @@ The web based chatbot helps to take the important details from the patient and p
 A link for vaccine registration is given too.
 
 
-Backend:
+      Backend:
 
 Python (Flask framework),
 
@@ -19,7 +23,7 @@ MongoDB to store data in,
 Hosted on Heroku
 
 
-Frontend:
+    Frontend:
 
 Angular,
 
