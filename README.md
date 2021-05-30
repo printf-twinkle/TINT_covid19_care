@@ -7,10 +7,11 @@ A link for vaccine registration is given too.
 
 
 Backend:
-Python (Flask framework)
-Google spreadsheets to take data from
-MongoDB to store data in
-Hosted on Heroku
+Python (Flask framework),
+Facebook Developers used to connect to fb group
+Google spreadsheets to take data from,
+MongoDB to store data in,
+Hosted on Heroku,
 
 Frontend:
 Angular
